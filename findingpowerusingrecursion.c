@@ -1,4 +1,4 @@
-// wAP to find power of +ve integer using recursive function.
+// WAP to find power of +ve integer using recursive function.
 #include <stdio.h>
 int power(int n1, int n2);
 int main() {
