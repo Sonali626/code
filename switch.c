@@ -1,3 +1,4 @@
+//WAP to print day using switch statement.
 #include<stdio.h>
 int main()
 {
